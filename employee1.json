@@ -66,7 +66,17 @@
 	  }
 
     },
-	
+    {
+      "id": "9",
+      "name": "rita",
+      "salary": "10000",
+	  "address":
+	  {
+		  "city" : "Ayodhya"
+	  }
+
+    },
+
     {
       "id": 8,
       "name": "ABC",
